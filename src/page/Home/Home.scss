@@ -1,0 +1,115 @@
+.home {
+    background: #eaeded;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 0 10px;
+    position: relative;
+
+    .swipe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 1;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    .gw-layout {
+        position: absolute;
+        top: 250px;
+        width: 98%;
+        z-index: 2;
+        margin: 0 auto;
+
+        .deals-shoveler-v1 {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+
+            .gw-card-layout {
+                background: #fff;
+                width: 320px;
+                padding: 11px;
+
+                img {
+                    width: 100%;
+                }
+
+                a {
+                    color: #007185;
+                    padding: 10px;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+
+    .deals-shoveler-v2 {
+        background: #fff;
+        position: relative;
+        margin: 18px 0;
+        .header {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            padding: 0 10px;
+            a{
+                color: #007185;
+                padding: 10px;
+                text-decoration: none;
+            }
+        }
+        .card {
+            display: flex;
+            flex-direction: column;
+    
+            .gw-card-layout {
+                width: auto;
+                height: 200px;
+                padding: 11px;
+    
+                img {
+                    width: 160px;
+                    height: 200px;
+                }
+            }
+    
+            a {
+                color: #CC0C39;
+                padding: 10px;
+                text-decoration: none;
+                span {
+                    background: #CC0C39;
+                    color: #fff;
+                    padding: 2px;    
+                }
+            }
+        }
+        .arrow {
+            position: absolute;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            .arrow-right {
+                width: 50px;
+                height: 50px;
+                background: #CC0C39;
+                color: #fff;
+                border-radius: 50%;
+            }
+            .arrow-left {
+                width: 50px;
+                height: 50px;
+                background: #CC0C39;
+                color: #fff;
+                border-radius: 50%;
+            }
+        }
+
+    }
+}
