@@ -2,7 +2,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41musAj0m+S._AC_UL320_.jpg",
       "name": "Samsung Galaxy A32 Dual SIM - 6.4 Inches, 6GB RAM, 128GB, 4G LTE - Awesome Black",
-      "price": "6,790",
+      "price": "6790",
       "when": "EGP 6,750.00",
       "type":"Mobile Phones",
       "FREE": ""
@@ -10,7 +10,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/81Afp6tG-QL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A23 LTE Android Smartphone, 128GB, 6GB RAM, Dual Sim Mobile Phone - Peach",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -18,7 +18,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61eVtJrA6xL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A23 Dual SIM BLACK 4GB RAM 128GB 4G",
-      "price": "5,899",
+      "price": "5899",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -26,7 +26,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/5196rT1llGL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 11S Dual SIM Amoled DotDisplay 6.43 Inch 90Hz Twilight Blue 8GB RAM 128GB 4G LTE with",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -34,7 +34,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61eVtJrA6xL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A23 Dual SIM BLACK 6GB RAM 128GB 4G",
-      "price": "6,499",
+      "price": "6499",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -42,7 +42,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41vYGs3rJTL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 10 Pro (8GB/128GB)(Onyx Gray)",
-      "price": "7,199",
+      "price": "7199",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -58,7 +58,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/614fbeOTjDL._AC_UL320_.jpg",
       "name": "Apple iPhone 13 Pro Max with FaceTime - 256GB, 6GB RAM, 4G LTE, Sierra Blue, Single SIM & E-SIM",
-      "price": "30,000",
+      "price": "30000",
       "when": "Thursday, August 25",
       "type":"Mobile Phones",
       "FREE": ""
@@ -66,7 +66,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71zOaQmhBPL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A13 LTE Android Smartphone, 64GB, 4GB RAM, Dual Sim, Light Blue",
-      "price": "5,389",
+      "price": "5389",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -82,7 +82,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61mOx8va+LL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A23 Dual SIM Blue 4GB RAM 128GB 4G",
-      "price": "5,777",
+      "price": "5777",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -90,7 +90,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71WDBqDDbKL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A52s Dual SIM - 128GB, 8GB RAM, 5G, BLACK",
-      "price": "9,850",
+      "price": "9850",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -98,7 +98,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61U6oC65TTL._AC_UL320_.jpg",
       "name": "SAMSUNG Dual Sim 12GB RAM 256GB 5G Galaxy S22 Ultra - Phantom Black",
-      "price": "25,000",
+      "price": "25000",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -106,7 +106,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41hTKWFixQL._AC_UL320_.jpg",
       "name": "Oppo Reno 7 256GB 8GB 4G Cosmic Black",
-      "price": "10,700",
+      "price": "10700",
       "when": "Thursday, August 25",
       "type":"Mobile Phones",
       "FREE": ""
@@ -114,7 +114,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/4110p-Lv0TL._AC_UL320_.jpg",
       "name": "Samsung A13 4GB Ram, 128GB - White",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -122,7 +122,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61sHtquTTwL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 11 Pro4G Volte 128GB,8GB 6.67\" 108MP Camera Night Mode Star blue",
-      "price": "8,070",
+      "price": "8070",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -130,7 +130,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61bjFEfTHRL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A03 CORE Dual sim, 32GB, 2Gb RAM, 4G BLACK",
-      "price": "3,698",
+      "price": "3698",
       "when": "Thursday, August 25",
       "type":"Mobile Phones",
       "FREE": ""
@@ -138,7 +138,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61jLiCovxVL._AC_UL320_.jpg",
       "name": "New Apple iPhone 13 Pro with Facetime (128GB) - Sierra Blue",
-      "price": "25,300",
+      "price": "25300",
       "when": "Wednesday, August 31",
       "type":"Mobile Phones",
       "FREE": ""
@@ -146,7 +146,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61OkFcXgcFL._AC_UL320_.jpg",
       "name": "Samsung A13 4GB Ram, 64GB - Black",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -154,7 +154,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51UhkQTNxmL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 11S Dual SIM Amoled DotDisplay 6.43 Inch 90Hz Graphite Gray 8GB RAM 128GB 4G LTE",
-      "price": "6,999",
+      "price": "6999",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -162,7 +162,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71Wkk4n9olL._AC_UL320_.jpg",
       "name": "SAMSUNG Dual Sim 12GB RAM 256GB 5G Galaxy S22 Ultra - Phantom Burgundy",
-      "price": "25,000",
+      "price": "25000",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -170,7 +170,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/710MCY53huL._AC_UL320_.jpg",
       "name": "Samsung Galaxy M52 5G Black,RAM 8 GB, 128 GB",
-      "price": "8,180",
+      "price": "8180",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -178,7 +178,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61wGlq7tqZL._AC_UL320_.jpg",
       "name": "Samsung Galaxy Note 20 Ultra, Dual SIM, 6.9 Inch, 256 GB, 12 GB RAM, 5G - Mystic Black",
-      "price": "19,990",
+      "price": "19990",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -186,7 +186,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61z4M00jEHL._AC_UL320_.jpg",
       "name": "Xiaomi 11T mobile Dual SIM ,6.67 inches, 256 GB, 8 GB RAM , 5G , Meteorite Gray",
-      "price": "11,290",
+      "price": "11290",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -194,7 +194,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61sENo8cv+L._AC_UL320_.jpg",
       "name": "Xiaomi Redmi 10C 4G (Graphite Gray, 4GB RAM, 128 GB Storage)- Dot Drop Display | 50mp with 5mp Rare Camera",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -202,7 +202,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51KyM1mPLVL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi 10C 4G (Graphite Gray, 4GB RAM, 64 GB Storage) Dot Drop Display | 50mp with 5mp Rare Camera",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -210,7 +210,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61s+ZbllLFL._AC_UL320_.jpg",
       "name": "realme C21Y Dual Sim 64GB, 4GB RAM, 4G Lte Phone (Blue, 6.5in)",
-      "price": "3,899",
+      "price": "3899",
       "when": "Thursday, August 25",
       "type":"Mobile Phones",
       "FREE": ""
@@ -218,7 +218,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41MbxR2-3+L._AC_UL320_.jpg",
       "name": "Samsung A03 4GB Ram, 64GB - Blue",
-      "price": "4,699",
+      "price": "4699",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -226,7 +226,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71JaMni+-yL._AC_UL320_.jpg",
       "name": "Samsung Galaxy M52 5G Blue",
-      "price": "8,180",
+      "price": "8180",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -234,7 +234,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51TbmJnGk7L._AC_UL320_.jpg",
       "name": "Samsung Galaxy A03 Dual Sim Mobile, 6.5 Inches, 128 GB, 4 GB RAM, 4G LTE - Blue",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -242,7 +242,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41ZqRyfCoFL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A03 Dual Sim Mobile, 6.5 Inches, 64 GB, 4 GB RAM, 4G LTE - BLACK",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -250,7 +250,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61mOx8va+LL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A23 Dual SIM Blue 6GB RAM 128GB 4G",
-      "price": "6,528",
+      "price": "6528",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -258,7 +258,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41ZqRyfCoFL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A03 Dual Sim Mobile, 6.5 Inches, 128GB, 4 GB RAM, 4G LTE -BLACK",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -274,7 +274,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41t+OegQDGL._AC_UL320_.jpg",
       "name": "Samsung SM-A035F/DS Galaxy-A03 RED, 4GB Ram, 64 GB Storage",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -282,7 +282,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/81YP8MaZo2L._AC_UL320_.jpg",
       "name": "SAMSUNG Galaxy A53 5G Mobile Phone SIM Free Android Smartphone, 256GB, 8GB RAM, Dual Sim Mobile Phone, Awesome Peach",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -290,7 +290,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71lddEkg7cL._AC_UL320_.jpg",
       "name": "SAMSUNG Galaxy A53 5G Mobile Phone SIM, 256GB, 8GB RAM, Black",
-      "price": "10,799",
+      "price": "10799",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -298,7 +298,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41bofduP27S._AC_UL320_.jpg",
       "name": "Realme C11 (2021) Dual Sim - 32GB, 2GB RAM, 4G LTE - Iron Gray",
-      "price": "3,457",
+      "price": "3457",
       "when": "Thursday, August 25",
       "type":"Mobile Phones",
       "FREE": ""
@@ -306,7 +306,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71K8e-tlk4L._AC_UL320_.jpg",
       "name": "Samsung Galaxy A52s Dual SIM - 128GB, 8GB RAM, 5G, Awesome Mint",
-      "price": "9,850",
+      "price": "9850",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -314,7 +314,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51SUAO2YI8L._AC_UL320_.jpg",
       "name": "realme C25 Y - 6.5-inch 128GB/4GB Dual SIM 4G Mobile Phone - Metal grey",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -322,7 +322,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71lwpZBlmSL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A03 CORE Dual sim, 32GB, 2Gb RAM, 4G BLUE",
-      "price": "3,750",
+      "price": "3750",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -330,7 +330,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61hj2b6hVJL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 11,90 Hz Amoled Pioneer, 128 GB, 6GB RAM, Graphite Gray",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -338,7 +338,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51IKDFtzduS._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 10, 5G, Graphite Grey, 128GB,6G RAM Dual SIM Grey",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -346,7 +346,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41NJEUtWM3L._AC_UL320_.jpg",
       "name": "Oppo A55 4GB RAM, 64GB - STARRY BALCK, Dual Sim",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -354,7 +354,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41C7y+bwaEL._AC_UL320_.jpg",
       "name": "Reno 6 5G Dual SIM Stellar Black 8GB RAM 128GB",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -362,7 +362,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71bru4lFzzL._AC_UL320_.jpg",
       "name": "Xiaomi - Redmi Note 11 128GB, 4GB RAM, WiFi, Pioneer Modi 90Hz, Blue, 50MP Camera",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -370,7 +370,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61hj2b6hVJL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 11,90 Hz Amoled Pioneer, 64 GB, 4GB RAM, Graphite Gray",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -378,7 +378,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51bseWUDNOL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi 9A Dual SIM Mobile Phone, 13 MP Camera, 6.53 Inch Touch Screen, 2 GB RAM, 32 GB, 4G LTE - Sky Blue",
-      "price": "3,499",
+      "price": "3499",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -394,7 +394,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41+5wNYqokL._AC_UL320_.jpg",
       "name": "Samsung Galaxy S20 FE Dual Sim Mobile - 6.5 Inches, 128 GB, 8 GB RAM, 4G - Cloud Navy",
-      "price": "8,999",
+      "price": "8999",
       "when": "Wednesday, August 24",
       "type":"Mobile Phones",
       "FREE": ""
@@ -402,7 +402,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71YEFDxgeuS._AC_UL320_.jpg",
       "name": "Samsung Galaxy A52 Dual SIM - 6.5 inches, 8 GB RAM, 256 GB - Black",
-      "price": "8,999",
+      "price": "8999",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -410,7 +410,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41-A1G+L7VL._AC_UL320_.jpg",
       "name": "OPPO Reno 6 5G - 6.4-inch 128GB/8GB Dual SIM 5G Mobile Phone - Aurora",
-      "price": "10,222",
+      "price": "10222",
       "when": "Wednesday, August 24",
       "type":"Mobile Phones",
       "FREE": ""
@@ -418,7 +418,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/31Q48JJXBLS._AC_UL320_.jpg",
       "name": "Samsung Galaxy A72 Dual SIM - 6.7 Inches, 8 GB RAM, 128 GB - Violet",
-      "price": "9,500",
+      "price": "9500",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -434,7 +434,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41xheHAeLuL._AC_UL320_.jpg",
       "name": "realme C11 2021 4GB RAM 64G ROM, Lake Blue",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -442,7 +442,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61CyntgnNaL._AC_UL320_.jpg",
       "name": "Xiaomi 11T Moonlight White 8GB RAM 256GB ROM",
-      "price": "11,440",
+      "price": "11440",
       "when": "Wednesday, August 24",
       "type":"Mobile Phones",
       "FREE": ""
@@ -450,7 +450,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71S3PeNu0SL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A53 Dual Sim - 128GB, 8GB RAM, 5G, Black",
-      "price": "10,555",
+      "price": "10555",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -458,7 +458,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61qcH1P2XjS._AC_UL320_.jpg",
       "name": "Samsung Galaxy S21 Ultra Dual SIM Mobile - 6.8 Inches, 256 GB, 12 GB RAM, 5G - Black",
-      "price": "23,450",
+      "price": "23450",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -466,7 +466,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UL320_.jpg",
       "name": "Apple iPhone 13 with FaceTime - 128GB, 4GB RAM, 4G LTE, Pink, Single SIM & E-SIM - International Warranty",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -474,7 +474,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71P79YS9VVL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A52 Dual Sim, 128GB, 8GB RAM, 4G LTE - Awesome Black",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -482,7 +482,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/41RWEwfsTvL._AC_UL320_.jpg",
       "name": "C25Y - 6.5-inch 128GB/4GB Dual SIM Mobile Phone -Glacier Blue",
-      "price": "4,838",
+      "price": "4838",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -490,7 +490,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/717QED7fTEL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A52s Dual SIM - 128GB, 8GB RAM, 5G, Violet",
-      "price": "9,850",
+      "price": "9850",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -498,7 +498,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51hV6FmTqLL._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 11S Dual SIM Amoled DotDisplay 6.43 Inch 90Hz Pearl White 8GB RAM 128GB 4G LTE",
-      "price": "7,370",
+      "price": "7370",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -506,7 +506,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51IKDFtzduS._AC_UL320_.jpg",
       "name": "Xiaomi Redmi Note 10 5G Smartphone Dual SIM Graphite Gray 4GB RAM 128GB LTE",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -514,7 +514,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61RCRdEvQlL._AC_UL320_.jpg",
       "name": "Apple iPhone 13 with FaceTime - 128GB, 4GB RAM, 4G LTE, Sierra Blue, Single SIM & E-SIM - International Warranty",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -522,7 +522,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/411g1sYEDgL._AC_UL320_.jpg",
       "name": "realme C21 Y - 6.5-inch 64GB/4GB Dual SIM 4G Mobile Phone - Cross black",
-      "price": "4,100",
+      "price": "4100",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -530,7 +530,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71S1+kwWHUL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A12 Dual SIM Mobile - 6.5 Inch, 64 GB, 4 GB RAM, 4G LTE - Blue",
-      "price": "",
+      "price": "10",
       "when": "",
       "type":"Mobile Phones",
       "FREE": ""
@@ -538,7 +538,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_UL320_.jpg",
       "name": "Samsung Galaxy S22 Ultra Dual SIM Phantom White 12GB RAM 256GB 5G",
-      "price": "25,000",
+      "price": "25000",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -546,7 +546,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61FX4BUT+LL._AC_UL320_.jpg",
       "name": "Samsung Galaxy Note 20 Ultra Mobile Phone, Hybrid Dual SIM, 6.9 Inch, 256 GB, 12 GB RAM, 5G LTE, 4500mAh - Mystic Bronze",
-      "price": "21,950",
+      "price": "21950",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -562,7 +562,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71WDBqDDbKL._AC_UL320_.jpg",
       "name": "Samsung Galaxy A52s Dual SIM - 128GB, 8GB RAM, 5G, BLACK",
-      "price": "9,850",
+      "price": "9850",
       "when": "tomorrow, Aug 23",
       "type":"Mobile Phones",
       "FREE": "Fulfilled by Amazon - FREE Shipping"
@@ -570,7 +570,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/71i2XhHU3pL._AC_UL320_.jpg",
       "name": "Apple iPhone 11 with FaceTime - 128GB, 4GB RAM, 4G LTE, Black, Single SIM & E-SIM",
-      "price": "15,450",
+      "price": "15450",
       "when": "Thursday, August 25",
       "type":"Mobile Phones",
       "FREE": ""
@@ -578,7 +578,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51hsq3bombL._AC_UY218_.jpg",
       "name": "Soundcore by Anker Life P2 Mini True Wireless Earbuds, 10mm Drivers with Big Bass, Custom EQ, Bluetooth 5.2, 32H Playtime, USB-C for Fast Charging, Tiny Size for Commute, Work",
-      "price": "1,157",
+      "price": "1157",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices(5 new offers)"
@@ -586,7 +586,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61-uda1MkpL._AC_UY218_.jpg",
       "name": "Anker Soundcore Life Note E, Black, True Wireless Earbuds with Big Bass and 3 EQ Modes, 32H Playtime, USB-C for Fast Charging, Tiny Size for Commute, Work",
-      "price": "1,116",
+      "price": "1116",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices(5 new offers)"
@@ -594,7 +594,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51DDYky5MfL._AC_UY218_.jpg",
       "name": "SAMSUNG Galaxy Buds2 Earbuds with Charging Case, ANC and Sound Customization, Graphite, R177NZKAMEA, Small",
-      "price": "2,100",
+      "price": "2100",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices(4 new offers)"
@@ -602,7 +602,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61HHeWTB-RL._AC_UY218_.jpg",
       "name": "All-New Kindle Oasis (10th Gen), Now with adjustable warm light, 7\" Display, Waterproof, 32 GB, Wi-Fi, Graphite",
-      "price": "5,199",
+      "price": "5199",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices"
@@ -610,7 +610,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/514+67sHjGL._AC_UY218_.jpg",
       "name": "Soundcore by Anker Liberty 3 Pro Noise Cancelling Earbuds, True Wireless Earbuds with ACAA 2.0, HearID ANC, Fusion Comfort, Hi-Res Audio Wireless, 6 Mics for Calls, 32H Playtime",
-      "price": "4,149",
+      "price": "4149",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices"
@@ -618,7 +618,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/518iwjpK4sL._AC_UY218_.jpg",
       "name": "Samsung Galaxy Buds2 Earbuds with Charging Case, ANC and Sound Customization, Olive",
-      "price": "2,100",
+      "price": "2100",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices(5 new offers)"
@@ -626,7 +626,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51LDrnQRnXL._AC_UY218_.jpg",
       "name": "Anker Life Dot 3i Noise Cancelling Earbuds with, 4 Mics for, 36H Playtime, USB-C for Fast Charging, Easy-Pairing, Soundcore App, IPX5 Water+ Kioxia TransMemory 32GB+ Anghami card for 1 month",
-      "price": "1,776",
+      "price": "1776",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices"
@@ -634,7 +634,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51cDhKBO5LS._AC_UY218_.jpg",
       "name": "Soundcore by Anker Life P3 Bluetooth Headphones with Active Noise Cancelling Multi-Mode Noise Cancelling 6 Microphones, 35 Hours Battery, Wireless Charging, Gaming Mode (Ocean Blue).",
-      "price": "2,699",
+      "price": "2699",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices"
@@ -642,7 +642,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/51r+gCyMXtL._AC_UY218_.jpg",
       "name": "Anker Soundcore Life Note True Wireless Earbuds with 4 Mics, 40H Playtime, CVC 8.0 Noise Reduction, Graphene Driver, Clear Sound, USB C, Wireless Earphones for Work, Home Office (Black)",
-      "price": "1,182",
+      "price": "1182",
       "when": "",
       "FREE": "",
       "type": "Amazon Devices"
@@ -650,7 +650,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/21p8E1qK8iL._AC_UY218_.jpg",
       "name": "Soundcore by Anker Life Note 3 Noise Cancelling Earbuds, Big Bass, 6 Mics, Clear Calls, Multi Mode Noise Cancelling, Wireless Charging, Soundcore App with Gaming Mode, Sleeping Mode, Find Your Earbuds",
-      "price": "2,099",
+      "price": "2099",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices"
@@ -690,7 +690,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/61KSF0YCTiL._AC_UY218_.jpg",
       "name": "LG TONE Free FN6 True Wireless Bluetooth Earbuds with UVNano 99.9% Bacteria Free Wireless Charging Case, Wireless Headphones with Dual Microphones for Work/Home Office, IPX4 Water-Resistant, Black",
-      "price": "1,999",
+      "price": "1999",
       "when": "tomorrow, Aug 23",
       "FREE": "Fulfilled by Amazon - FREE Shipping",
       "type": "Amazon Devices"
@@ -746,7 +746,7 @@ export default [
     {
       "image": "https://m.media-amazon.com/images/I/21hbGHEk92L._AC_UY218_.jpg",
       "name": "fonefunshop Compatible with iPhone 12 Pro Max Plain Glass Back in White",
-      "price": "1,800",
+      "price": "1800",
       "when": "Friday, August 26",
       "FREE": "",
       "type": "Amazon Devices"
@@ -850,7 +850,7 @@ export default [
         {
           "image": "https://m.media-amazon.com/images/I/31Su+QGHwyL._AC_UL320_.jpg",
           "name": "Deli A20110 Stick Up Glue Stick - 15 Gm",
-          "price": "",
+          "price": "10",
           "when": "",
           "FREE": "",
           "type": "Arts, Crafts & Sewing"
@@ -1602,7 +1602,7 @@ export default [
           "image": "https://m.media-amazon.com/images/I/618PCUjZyrL._AC_UL320_.jpg",
           "name2": "Reebok",
           "name": "Royal Classic Synthetic-Leather Textile Accent Logo Print Heel Tab Lace-Up Running Sneakers for Men",
-          "price": "1,239",
+          "price": "1239",
           "when": "",
           "free": "",
           "type": "Amazon Fashion"
@@ -1746,7 +1746,7 @@ export default [
           "image": "https://m.media-amazon.com/images/I/61jbVCmKxSL._AC_UL320_.jpg",
           "name2": "GUESS",
           "name": "Pompom Stainless Steel Zircon Pave and Plain Beads Bangle for Women - Gold",
-          "price": "1,400",
+          "price": "1400",
           "when": "tomorrow, Aug 23",
           "free": "",
           "type": "Amazon Fashion"
@@ -1755,7 +1755,7 @@ export default [
           "image": "https://m.media-amazon.com/images/I/41oPEb0+nbL._AC_UL320_.jpg",
           "name2": "Swatch",
           "name": "SS07S101 Leather Blue-Dial Round Analog Watch for Men - Brown",
-          "price": "2,229",
+          "price": "2229",
           "when": "tomorrow, Aug 23",
           "free": "Limited time deal",
           "type": "Amazon Fashion"
@@ -2132,7 +2132,7 @@ export default [
           "type": "Automotive Parts & Accessories",
           "image": "https://m.media-amazon.com/images/I/71Epu61I-DL._AC_UL320_.jpg",
           "name": "Michelin Digital SUV Tyre Inflator - Black",
-          "price": "1,781",
+          "price": "1781",
           "when": "tomorrow, Aug 23"
         },
         {
@@ -2168,7 +2168,7 @@ export default [
         {
           "image": "https://m.media-amazon.com/images/I/81Eob4SMydL._AC_UL320_.jpg",
           "name": "Pampers Premium Care Diapers, Size 5, Junior, 11-25 Kg - 94 Diapers",
-          "price": "",
+          "price": "10",
           "when": ""
         },
         {
@@ -2198,7 +2198,7 @@ export default [
         {
           "image": "https://m.media-amazon.com/images/I/71Xe4h418dS._AC_UL320_.jpg",
           "name": "Babyjoy Large Stretch Diapers, No Lumping - 58 Pieces",
-          "price": "",
+          "price": "10",
           "when": ""
         },
         {
@@ -2412,7 +2412,7 @@ export default [
           "type": "Beauty & Personal Care",
           "image": "https://m.media-amazon.com/images/I/51qnfYG06bS._AC_UL320_.jpg",
           "name": "Garnier SkinActive Fast Fairness Cream - 25 ml",
-          "price": "",
+          "price": "10",
           "when": ""
         },
         {
@@ -2548,7 +2548,7 @@ export default [
           "type": "Beauty & Personal Care",
           "image": "https://m.media-amazon.com/images/I/31hkXOCVNjL._AC_UL320_.jpg",
           "name": "Armani Code Luna by Giorgio Armani Eau de Toilette for Women 75 ml",
-          "price": "1,104",
+          "price": "1104",
           "when": "tomorrow, Aug 23"
         },
         {

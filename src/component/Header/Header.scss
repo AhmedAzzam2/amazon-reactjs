@@ -13,6 +13,8 @@
         .logo {
             font-size: 27px;
             font-weight: 700;
+            text-decoration: none;
+            color: white;
             &::after {
                 // smale amazon
                 content: '';
@@ -39,12 +41,33 @@
                 border-radius: 4px 0 0 4px;
                 background-color: #eee;
             }
-            input {
+            .input{
                 flex: 1;
+                position: relative;
+            input {
                 height: 38px;
+                width: 100%;
                 padding: 0 1rem;
                 border: none; 
                 background-color: #fff;
+            }
+            div{
+                background: white;
+                position: absolute;
+                width: 100%;
+                z-index: 3;
+                a{
+                    color: #000;
+                    display: block;
+                    text-decoration: none;
+                    margin: 0;
+                    padding: 2px 5px;
+                    border-bottom: 1px #000 solid ;
+                    &:hover{
+                        background-color: #ffad2a59;
+                        }
+                }
+            }
             }
             button {
                 width: 50px;
@@ -54,6 +77,7 @@
                 border-radius: 0 4px 4px 0;
                 background-color:#febd69;
                 color: #000;
+                cursor: pointer;
 
             }
         }
@@ -61,11 +85,25 @@
     .nav-right {
         display: flex;
         align-items: center;
-        >div{
+        >div,>a {
             padding: 20px 10px;
             cursor: pointer;
             &:hover {
                 background-color: #232f3e;
+            }
+        }
+        .cart{
+            position: relative;
+            display: inline-block;
+            color: #fff;
+            .count{
+                position: absolute;
+                top: 12px;
+                left: 17px;
+                font-size: 16px;
+                background: #131921;
+                color: #f08804;
+                font-weight: bold;
             }
         }
     }
@@ -92,7 +130,8 @@
 #modal{
     position: fixed;
     top: 0;
-    left: 0; 
+    left: 0;
+    z-index: 10;
     .backdrop{
         position: fixed;
         top: 0;

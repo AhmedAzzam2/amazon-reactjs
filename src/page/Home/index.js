@@ -1,4 +1,6 @@
 import Header from "../../component/Header";
+import { Link } from "react-router-dom";
+
 import { useState, useEffect } from "react";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation } from "swiper";
@@ -60,7 +62,7 @@ export default function Home() {
                             <a href="#">View All</a>
                         </div>
                         <Swiper
-                            spaceBetween={1} 
+                            spaceBetween={1}
                             navigation={true}
                             modules={[Navigation]}
                             onSlideChange={(z) => console.log(z + 'slide change')}
@@ -83,7 +85,7 @@ export default function Home() {
                                     slidesPerView: 4,
                                 },
                             }}
-                            >
+                        >
 
                             {
                                 data.filter(
@@ -95,7 +97,9 @@ export default function Home() {
                                             <SwiperSlide>
                                                 <div className="card">
                                                     <div className="gw-card-layout">
-                                                        <img src={item.image} />
+                                                        <Link to={'product/' + item.name}>
+                                                            <img src={item.image} />
+                                                        </Link>
                                                     </div>
                                                     <a href="#"> <span class="a-size-mini"> EGP {item.price} and under</span>  Top deal</a>
 
@@ -114,7 +118,7 @@ export default function Home() {
                             <a href="#">View All</a>
                         </div>
                         <Swiper
-                            spaceBetween={1} 
+                            spaceBetween={1}
                             navigation={true}
                             modules={[Navigation]}
                             onSlideChange={(z) => console.log(z + 'slide change')}
@@ -137,7 +141,7 @@ export default function Home() {
                                     slidesPerView: 4,
                                 },
                             }}
-                            >
+                        >
 
                             {
                                 data.filter(
@@ -149,7 +153,9 @@ export default function Home() {
                                             <SwiperSlide>
                                                 <div className="card">
                                                     <div className="gw-card-layout">
-                                                        <img src={item.image} />
+                                                        <Link to={'product/' + item.name}>
+                                                            <img src={item.image} />
+                                                        </Link>
                                                     </div>
 
                                                 </div>
@@ -161,58 +167,60 @@ export default function Home() {
 
                     </div>
 
-<div className="deals-shoveler-v2">
-    <div className="header">
-        <h2>Amazon Fashion</h2>
-        <a href="#">View All</a>
-    </div>
-    <Swiper
-        spaceBetween={1} 
-        navigation={true}
-        modules={[Navigation]}
-        onSlideChange={(z) => console.log(z + 'Baby')}
-        onSwiper={(swiper) => console.log(swiper)}
+                    <div className="deals-shoveler-v2">
+                        <div className="header">
+                            <h2>Amazon Fashion</h2>
+                            <a href="#">View All</a>
+                        </div>
+                        <Swiper
+                            spaceBetween={1}
+                            navigation={true}
+                            modules={[Navigation]}
+                            onSlideChange={(z) => console.log(z + 'Baby')}
+                            onSwiper={(swiper) => console.log(swiper)}
 
-        breakpoints={{
-            // when window width is >= 320px
-            320: {
-                width: 320,
-                slidesPerView: 2,
-            },
-            // when window width is >= 640px
-            640: {
-                width: 640,
-                slidesPerView: 3,
-            },
-            // when window width is >= 768px
-            768: {
-                width: 768,
-                slidesPerView: 4,
-            },
-        }}
-        >
+                            breakpoints={{
+                                // when window width is >= 320px
+                                320: {
+                                    width: 320,
+                                    slidesPerView: 2,
+                                },
+                                // when window width is >= 640px
+                                640: {
+                                    width: 640,
+                                    slidesPerView: 3,
+                                },
+                                // when window width is >= 768px
+                                768: {
+                                    width: 768,
+                                    slidesPerView: 4,
+                                },
+                            }}
+                        >
 
-        {
-            data.filter(
-                (item) => item.type === 'Amazon Fashion'
-            )// max item 10 return
-                .slice(0, 10)
-                .map((item, index) => {
-                    return (
-                        <SwiperSlide>
-                            <div className="card">
-                                <div className="gw-card-layout">
-                                    <img src={item.image} />
-                                </div>
+                            {
+                                data.filter(
+                                    (item) => item.type === 'Amazon Fashion'
+                                )// max item 10 return
+                                    .slice(0, 10)
+                                    .map((item, index) => {
+                                        return (
+                                            <SwiperSlide>
+                                                <div className="card">
+                                                    <div className="gw-card-layout">
+                                                        <Link to={'product/' + item.name}>
+                                                            <img src={item.image} />
+                                                        </Link>
+                                                    </div>
 
-                            </div>
-                        </SwiperSlide>
-                    )
-                })
-        }
-    </Swiper>
+                                                </div>
+                                            </SwiperSlide>
+                                        )
+                                    })
+                            }
+                        </Swiper>
 
-</div>
+                    </div>
 
                 </div>
             </div>
