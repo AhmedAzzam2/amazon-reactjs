@@ -19,7 +19,7 @@ import data from "../../api/data";
 export default () => {
     const { name } = useParams();
     console.log(name);
-    let d = data.find( (item)=> item.name == name );
+    let d = data.find((item) => item.name == name);
     return (
         <>
             <Header />
@@ -35,24 +35,37 @@ export default () => {
                     <div className="center">
                         <h1>{d.name}</h1>
                         <p>Brand: Mienta</p>
-                        <div className="ratings"> <StarFill/><StarFill/><StarFill/><StarFill/><Star/> </div>
+                        <div className="ratings"> <StarFill /><StarFill /><StarFill /><StarFill /><Star /> </div>
                         <div className="price">
-                        EGP <span>{d.price}</span>
-                        <div className="icon-farm-wrapper">
-                            <div className="section">
-                                <img src={iconCod} alt="" />
-                                 <div>Cash on Delivery</div>
-                            </div>
-                            <div className="section">
-                                <img src={iconAm} alt="" />
-                                 <div>Delivered by Amazon</div>
-                            </div>
-                            <div className="section">
-                                <img src={iconSecure} alt="" />
-                                 <div> Secure transaction </div>
-                            </div>
+                            EGP <span>{d.price}</span>
+                            <div className="icon-farm-wrapper">
+                                <div className="section">
+                                    <img src={iconCod} alt="" />
+                                    <div>Cash on Delivery</div>
+                                </div>
+                                <div className="section">
+                                    <img src={iconAm} alt="" />
+                                    <div>Delivered by Amazon</div>
+                                </div>
+                                <div className="section">
+                                    <img src={iconSecure} alt="" />
+                                    <div> Secure transaction </div>
+                                </div>
 
-                        </div>
+                            </div>
+                            <div id="feature-bullets">
+                                <hr/>
+                                    <p> About this item </p>
+                                    <ul>
+                                        <li>Brand: Tornado</li>
+                                        <li>Color: Black</li>
+                                        <li>Power Source: Electric</li>
+                                        <li>Number of speeds: 3</li>
+                                        <li>Maintenance-free blades: لا</li>
+                                        <li>Fan Type: Pedestal Fans</li>
+                                        <li>Model Number: TSF-16W</li>
+                                    </ul>
+                            </div>
                         </div>
                     </div>
                     <div className="right">
@@ -68,61 +81,61 @@ export default () => {
                     </div>
                 </div>
 
-                
+
                 <div className="deals-shoveler-v2">
-                        <div className="header">
-                            <h2>{d.type}</h2>
-                            <a href="#">View All</a>
-                        </div>
-                        <Swiper
-                            spaceBetween={1}
-                            navigation={true}
-                            modules={[Navigation]}
-                            onSlideChange={(z) => console.log(z + 'slide change')}
-                            onSwiper={(swiper) => console.log(swiper)}
-
-                            breakpoints={{
-                                // when window width is >= 320px
-                                320: {
-                                    width: 320,
-                                    slidesPerView: 2,
-                                },
-                                // when window width is >= 640px
-                                640: {
-                                    width: 640,
-                                    slidesPerView: 3,
-                                },
-                                // when window width is >= 768px
-                                768: {
-                                    width: 768,
-                                    slidesPerView: 4,
-                                },
-                            }}
-                        >
-
-                            {
-                                data.filter(
-                                    (item) => item.type === d.type
-                                )// max item 10 return
-                                    .slice(0, 10)
-                                    .map((item, index) => {
-                                        return (
-                                            <SwiperSlide>
-                                                <div className="card">
-                                                    <div className="gw-card-layout">
-                                                        <Link to={'/product/' + item.name}>
-                                                            <img src={item.image} />
-                                                        </Link>
-                                                    </div>
-
-                                                </div>
-                                            </SwiperSlide>
-                                        )
-                                    })
-                            }
-                        </Swiper>
-
+                    <div className="header">
+                        <h2>{d.type}</h2>
+                        <a href="#">View All</a>
                     </div>
+                    <Swiper
+                        spaceBetween={1}
+                        navigation={true}
+                        modules={[Navigation]}
+                        onSlideChange={(z) => console.log(z + 'slide change')}
+                        onSwiper={(swiper) => console.log(swiper)}
+
+                        breakpoints={{
+                            // when window width is >= 320px
+                            320: {
+                                width: 320,
+                                slidesPerView: 2,
+                            },
+                            // when window width is >= 640px
+                            640: {
+                                width: 640,
+                                slidesPerView: 3,
+                            },
+                            // when window width is >= 768px
+                            768: {
+                                width: 768,
+                                slidesPerView: 4,
+                            },
+                        }}
+                    >
+
+                        {
+                            data.filter(
+                                (item) => item.type === d.type
+                            )// max item 10 return
+                                .slice(0, 10)
+                                .map((item, index) => {
+                                    return (
+                                        <SwiperSlide>
+                                            <div className="card">
+                                                <div className="gw-card-layout">
+                                                    <Link to={'/product/' + item.name}>
+                                                        <img src={item.image} />
+                                                    </Link>
+                                                </div>
+
+                                            </div>
+                                        </SwiperSlide>
+                                    )
+                                })
+                        }
+                    </Swiper>
+
+                </div>
 
             </div>
         </>

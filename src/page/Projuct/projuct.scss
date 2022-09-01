@@ -36,7 +36,6 @@
         .icon-farm-wrapper{
             display: flex;
             gap: 11px;
-            border-bottom: 1px solid #007185;
             .section{
                 width: 100px;
                 text-align: center;
@@ -51,9 +50,17 @@
                 }
             }
         }
+        #feature-bullets{
+            p{
+                font-size: 18px;
+            }
+            li{
+                font-size: 14px;
+            }
+        }
     }
      .right{
-        border: 1px solid ;
+        border: 1px solid darkgray;
         border-radius: 10px;
         width: 244px;
         padding: 8px;
@@ -71,6 +78,73 @@
         }
 
      }
+
+     
+    .deals-shoveler-v2 {
+        background: #fff;
+        position: relative;
+        margin: 18px 0;
+        .header {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            padding: 0 10px;
+            a{
+                color: #007185;
+                padding: 10px;
+                text-decoration: none;
+            }
+        }
+        .card {
+            display: flex;
+            flex-direction: column;
+    
+            .gw-card-layout {
+                width: auto;
+                height: 200px;
+                padding: 11px;
+    
+                img {
+                    width: 160px;
+                    height: 200px;
+                }
+            }
+    
+            a {
+                color: #CC0C39;
+                padding: 10px;
+                text-decoration: none;
+                span {
+                    background: #CC0C39;
+                    color: #fff;
+                    padding: 2px;    
+                }
+            }
+        }
+        .arrow {
+            position: absolute;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            .arrow-right {
+                width: 50px;
+                height: 50px;
+                background: #CC0C39;
+                color: #fff;
+                border-radius: 50%;
+            }
+            .arrow-left {
+                width: 50px;
+                height: 50px;
+                background: #CC0C39;
+                color: #fff;
+                border-radius: 50%;
+            }
+        }
+
+    }
+
 
 }
 
