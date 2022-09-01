@@ -1,11 +1,11 @@
-.product {
+.product-item {
     background: #fff;
     max-width: 1500px;
     margin: 0 auto;
     padding: 0 10px;
     position: relative;
     .left{
-        flex: 1;
+        width: 50%;
     }
     .content{
         flex: 1;
@@ -14,8 +14,8 @@
         align-items: flex-start;
         img{
             width: 100%;
-            min-width: 300px;
-            max-width: 500px;
+            max-width: 613px;
+            max-height: 613px;
         }    
         .price{
             font-size: 12px;
@@ -24,6 +24,34 @@
             }
         }
      }
+     .center {
+        width: 50%;
+        h1{
+            font-size: 19px;
+        }
+        .ratings{
+            font-size: 20px;
+            color: orange;
+        }
+        .icon-farm-wrapper{
+            display: flex;
+            gap: 11px;
+            border-bottom: 1px solid #007185;
+            .section{
+                width: 100px;
+                text-align: center;
+                margin-bottom: 10px;
+                img{
+                    width: 35px;
+                    height: 35px;
+                }
+                div{
+                    font-size: 14px;
+                    color: #007185;
+                }
+            }
+        }
+    }
      .right{
         border: 1px solid ;
         border-radius: 10px;

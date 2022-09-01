@@ -2,6 +2,11 @@ import { useParams } from "react-router-dom";
 import Header from "../../component/Header";
 import { Link } from "react-router-dom";
 import { useState, useEffect } from "react";
+import { Star, StarFill, CashCoin, Award } from 'react-bootstrap-icons';
+import iconSecure from '../../asset/icon-secure.png';
+import iconCod from '../../asset/icon-cod.png';
+import iconAm from '../../asset/icon-amazon-delivered.png';
+
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation } from "swiper";
 // Import Swiper styles
@@ -18,7 +23,7 @@ export default () => {
     return (
         <>
             <Header />
-            <div className="product">
+            <div className="product-item">
                 {useParams.ID}
                 <div className="nav">
                     <a href="">aaaaaaa</a>
@@ -30,9 +35,24 @@ export default () => {
                     <div className="center">
                         <h1>{d.name}</h1>
                         <p>Brand: Mienta</p>
-                        <div className="ratings">****</div>
+                        <div className="ratings"> <StarFill/><StarFill/><StarFill/><StarFill/><Star/> </div>
                         <div className="price">
                         EGP <span>{d.price}</span>
+                        <div className="icon-farm-wrapper">
+                            <div className="section">
+                                <img src={iconCod} alt="" />
+                                 <div>Cash on Delivery</div>
+                            </div>
+                            <div className="section">
+                                <img src={iconAm} alt="" />
+                                 <div>Delivered by Amazon</div>
+                            </div>
+                            <div className="section">
+                                <img src={iconSecure} alt="" />
+                                 <div> Secure transaction </div>
+                            </div>
+
+                        </div>
                         </div>
                     </div>
                     <div className="right">
