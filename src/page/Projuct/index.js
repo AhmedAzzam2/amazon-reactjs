@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
+import { useState, useEffect, useContext } from "react";
 import Header from "../../component/Header";
 import { Link } from "react-router-dom";
-import { useState, useEffect } from "react";
 import { Star, StarFill, CashCoin, Award } from 'react-bootstrap-icons';
 import iconSecure from '../../asset/icon-secure.png';
 import iconCod from '../../asset/icon-cod.png';
@@ -15,11 +15,27 @@ import "swiper/css/navigation";
 import './projuct.scss'
 
 import data from "../../api/data";
+import { ThemeContext } from "../../App";
 
 export default () => {
     const { name } = useParams();
     console.log(name);
     let d = data.find((item) => item.name == name);
+
+    const theme = useContext(ThemeContext);
+    const buy = (name) => {
+        let dx = data.find((item) => item.name == name);
+        let aq = theme.cart.find((item) => item.name == name);
+        if (aq) {
+            aq.quantity = aq.quantity + 1
+        } else {
+            theme.setCart(
+                [{ ...dx, quantity: 1 }, ...theme.cart]
+            )
+        }
+        console.log(theme);
+    }
+
     return (
         <>
             <Header />
@@ -54,17 +70,17 @@ export default () => {
 
                             </div>
                             <div id="feature-bullets">
-                                <hr/>
-                                    <p> About this item </p>
-                                    <ul>
-                                        <li>Brand: Tornado</li>
-                                        <li>Color: Black</li>
-                                        <li>Power Source: Electric</li>
-                                        <li>Number of speeds: 3</li>
-                                        <li>Maintenance-free blades: لا</li>
-                                        <li>Fan Type: Pedestal Fans</li>
-                                        <li>Model Number: TSF-16W</li>
-                                    </ul>
+                                <hr />
+                                <p> About this item </p>
+                                <ul>
+                                    <li>Brand: Tornado</li>
+                                    <li>Color: Black</li>
+                                    <li>Power Source: Electric</li>
+                                    <li>Number of speeds: 3</li>
+                                    <li>Maintenance-free blades: لا</li>
+                                    <li>Fan Type: Pedestal Fans</li>
+                                    <li>Model Number: TSF-16W</li>
+                                </ul>
                             </div>
                         </div>
                     </div>
@@ -77,7 +93,7 @@ export default () => {
                             <span>Qty</span>
                             <select name="quantity">     <option value="1" selected="">1 </option>       <option value="2">2 </option>       <option value="3">3 </option>       <option value="4">4 </option>       <option value="5">5 </option>       <option value="6">6 </option>       <option value="7">7 </option>       <option value="8">8 </option>       <option value="9">9 </option>       <option value="10">10 </option>       <option value="11">11 </option>       <option value="12">12 </option>       <option value="13">13 </option>       <option value="14">14 </option>       <option value="15">15 </option>       <option value="16">16 </option>       <option value="17">17 </option>       <option value="18">18 </option>       <option value="19">19 </option>       <option value="20">20 </option>       <option value="21">21 </option>       <option value="22">22 </option>       <option value="23">23 </option>       <option value="24">24 </option>       <option value="25">25 </option>       <option value="26">26 </option>       <option value="27">27 </option>       <option value="28">28 </option>       <option value="29">29 </option>       <option value="30">30 </option>          </select>
                         </div>
-                        <button>Buy Now</button>
+                        <button onClick={(e) => buy(d.name)}>Buy Now</button>
                     </div>
                 </div>
 

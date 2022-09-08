@@ -69,12 +69,16 @@
             color: #007185;
         }
         button{
+            cursor: pointer;
             width: 200px;
             padding: 11px 40px;
             margin-top: 11px;
             border: 0;
             border-radius: 8px;
             background: #ffa41c;
+            &:hover{
+                background: #ed8e00;
+            }
         }
 
      }
