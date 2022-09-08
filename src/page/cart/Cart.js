@@ -27,10 +27,16 @@ export default () => {
 
     let totas = theme.cart.reduce((acc, curr) => acc + curr.quantity * curr.price, 0);
     let quantity = (e, name) => {
-        let dx = theme.cart.find((item) => item.name == name);
+
         theme.setCart(
-            [{ ...dx, quantity: e.target.value }, ...theme.cart.filter((item) => item.name != name)]
-        )
+            theme.cart.map(obj => {
+                if (obj.name == name) return { ...obj, quantity: e.target.value };
+                return obj;
+            })
+
+        );
+
+
     }
 
     return (
